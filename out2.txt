@@ -1,0 +1,25 @@
+1. What is your fav colour
+
+blue
+red
+orange
+
+2. How good is cake
+
+from shops
+home baked
+
+bad
+neutral
+good
+
+3. rate the following statements
+
+python is fantastic
+I like cake
+coffee is better than tea
+
+fales
+kinda true
+very true
+

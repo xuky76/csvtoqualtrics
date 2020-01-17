@@ -1,0 +1,27 @@
+1. What is your fav colour
+
+sample answer0
+sample answer1
+sample answer2
+sample answer3
+
+2. How good is cake
+
+statement0
+statement1
+statement2
+statement3
+
+scale1
+
+3. rate the following statements
+
+statement0
+statement1
+statement2
+statement3
+
+scale2
+scale2
+scale2
+
